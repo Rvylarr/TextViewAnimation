@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView анимация</string>
+    <string name="hello_text">ПРИВЕТ</string>
+</resources>

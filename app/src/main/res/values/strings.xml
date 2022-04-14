@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextView animation</string>
+    <string name="hello_text">HELLO</string>
+</resources>
